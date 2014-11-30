@@ -1,5 +1,5 @@
 // This product includes color specifications and designs developed by Cynthia Brewer (http://colorbrewer.org/).
-//this was copied from https://github.com/mbostock/d3/tree/master/lib/colorbrewer
+// this was copied from https://github.com/mbostock/d3/blob/f82dd6fb414a15bca4f9c39c7c9442295ddea416/lib/colorbrewer/colorbrewer.js
 (function (window) {
     window.colorbrewer = {YlGn: {
         3: ["#f7fcb9", "#addd8e", "#31a354"],

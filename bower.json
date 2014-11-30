@@ -1,16 +1,16 @@
 {
-  "name": "colorbrewer2",
+  "name": "colorbrewer.styl",
   "main": [
     "colorbrewer.js",
-    "colorbrewer.css"
+    "colorbrewer.styl"
     ],
-  "version": "2.0",
-  "homepage": "https://github.com/alexmasselot/colorbrewer",
+  "version": "1.0",
+  "homepage": "https://github.com/johnmichel/colorbrewer.styl",
   "authors": [
-    "alexandre.masselot@gmail.com"
+    "johnmichel@gmail.com"
   ],
-  "description": "copy colorbrewer defintion form Cynthia Brewer by Mike Bostock",
-  "license": "Apache-2.0",
+  "description": "ColorBrewer defintions from Cynthia Brewer by Mike Bostock for use in Stylus",
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
