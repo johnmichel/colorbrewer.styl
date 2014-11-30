@@ -4,7 +4,7 @@
     "colorbrewer.js",
     "colorbrewer.styl"
     ],
-  "version": "1.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/johnmichel/colorbrewer.styl",
   "authors": [
     "johnmichel@gmail.com"
